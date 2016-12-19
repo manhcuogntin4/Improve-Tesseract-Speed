@@ -1,0 +1,3 @@
+/home/cuong-nguyen/2016/Workspace/brexia/Decembre/CodeSource/improve-Tesseract/build/CMakeFiles/edit_cache.dir
+/home/cuong-nguyen/2016/Workspace/brexia/Decembre/CodeSource/improve-Tesseract/build/CMakeFiles/rebuild_cache.dir
+/home/cuong-nguyen/2016/Workspace/brexia/Decembre/CodeSource/improve-Tesseract/build/CMakeFiles/extract.dir
